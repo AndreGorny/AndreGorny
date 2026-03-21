@@ -29,7 +29,7 @@ Retomei meus estudos em abril de 2024, estudando um pouco de frontend (**HTML** 
 | 🇺🇸 | Inglês | Avançado 
 | 🇪🇦 | Espanhol | Básico
 
-[![Andre Gorny's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreGorny)](https://github.com/anuraghazra/github-readme-stats)
+[![Andre Gorny's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreGorny&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contato
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5541985350740) [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:andregorny.dev@gmail.com) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@andre.gorny/) [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andregorny.broker/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AndreGorny) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andregorny/)
