@@ -6,8 +6,8 @@ Tenho muita vontade e facilidade em aprender novas habilidades e pretendo, em br
 
 # Histórico
 
-Iniciei meus estudos em programação em 2023, com um curso básico de **Python**, mas por uma série de motivos, não consegui aprofundar e levar adiante.
-Retomei meus estudos em abril de 2024, estudando um pouco de frontend (**HTML** e **CSS**) e também backend (**Python**). Pretendo aprofundar os estudos nessas áreas para me tornar, futuramente, um desenvolvedor full stack!
+Iniciei meus estudos de programação em 2023, com um curso básico de **Python**, mas por uma série de motivos, não consegui aprofundar e levar adiante.
+Retomei meus estudos em abril de 2024, estudando um pouco de frontend (**HTML** e **CSS**) e focando no backend em (**Python**). Em setembro/2024 iniciei a faculdade de ADS na Uninter.
 
 ## Conhecimentos técnicos
 #### Marcação e estilização:
